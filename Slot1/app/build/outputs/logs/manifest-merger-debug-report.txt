@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:1-58:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\DELL\.gradle\caches\transforms-4\75fa905ae4c1810e680a5616507a0811\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\transforms-4\b837ad81ff39873ba69b851967d25721\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\DELL\.gradle\caches\transforms-4\1e1883a8e7a3fe6c55131605d7fbf95d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\DELL\.g
 	xmlns:android
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:5:5-24:19
-INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:5:5-56:19
+INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:5:5-56:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\DELL\.gradle\caches\transforms-4\75fa905ae4c1810e680a5616507a0811\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\DELL\.gradle\caches\transforms-4\75fa905ae4c1810e680a5616507a0811\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\transforms-4\b837ad81ff39873ba69b851967d25721\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -96,22 +96,76 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DE
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:13:9-43
 	android:dataExtractionRules
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.slot1.MainActivity
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:15:9-23:20
+activity#Slot3.Demo34MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:16:13-52
+activity#Slot3.Demo33MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:19:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:24:27-74
+activity#Slot3.Demo32MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:28:13-52
+activity#Slot3.Demo31MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:33:13-52
+activity#Slot2.Slot25MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:39:13-52
+activity#Slot2.Slot24MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:42:13-52
+activity#Slot2.Slot23MainAcitivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:45:13-53
+activity#Slot2.Slot2A2Activity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:48:13-49
+activity#Slot2.Slot2
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:51:13-39
+activity#com.example.slot1.MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:53:9-55:39
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:54:13-41
 uses-sdk
 INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml
