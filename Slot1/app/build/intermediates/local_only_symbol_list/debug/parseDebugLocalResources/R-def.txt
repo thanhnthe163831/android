@@ -2,6 +2,16 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable android
+drawable apple
+drawable blogger
+drawable border
+drawable chrome
+drawable dell
+drawable facebook
+drawable firefox
+drawable hancock
+drawable hp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id Slot23txtview
@@ -16,6 +26,10 @@ id demo33Hsc
 id demo33btn1
 id demo33tv
 id demo34tv
+id demo41_itemview_hinh
+id demo41listview
+id demo4_itemview_ten
+id demo4_itemview_tuoi
 id main
 id slot2A2txt1
 id slot2A2txt2
@@ -28,12 +42,14 @@ layout activity_demo31_main
 layout activity_demo32_main
 layout activity_demo33_main
 layout activity_demo34_main
+layout activity_demo41_main
 layout activity_main
 layout activity_slot2
 layout activity_slot23_main_acitivity
 layout activity_slot24_main
 layout activity_slot25_main
 layout activity_slot2_a2
+layout demo41_item_view
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

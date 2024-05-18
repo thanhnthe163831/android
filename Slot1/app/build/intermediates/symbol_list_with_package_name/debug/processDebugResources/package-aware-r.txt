@@ -2985,8 +2985,12 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable android
+drawable apple
 drawable avd_hide_password
 drawable avd_show_password
+drawable blogger
+drawable border
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2995,11 +2999,17 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable chrome
+drawable dell
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable facebook
+drawable firefox
+drawable hancock
+drawable hp
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3251,6 +3261,10 @@ id demo33Hsc
 id demo33btn1
 id demo33tv
 id demo34tv
+id demo41_itemview_hinh
+id demo41listview
+id demo4_itemview_ten
+id demo4_itemview_tuoi
 id dependency_ordering
 id design_bottom_sheet
 id design_menu_item_action_area
@@ -3734,6 +3748,7 @@ layout activity_demo31_main
 layout activity_demo32_main
 layout activity_demo33_main
 layout activity_demo34_main
+layout activity_demo41_main
 layout activity_main
 layout activity_slot2
 layout activity_slot23_main_acitivity
@@ -3741,6 +3756,7 @@ layout activity_slot24_main
 layout activity_slot25_main
 layout activity_slot2_a2
 layout custom_dialog
+layout demo41_item_view
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

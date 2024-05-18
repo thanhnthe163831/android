@@ -96,40 +96,46 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DE
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:13:9-43
 	android:dataExtractionRules
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:7:9-65
-activity#Slot3.Demo34MainActivity
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:15:9-17:40
+activity#Slot4.Demo41MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:exported
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:16:13-52
-activity#Slot3.Demo33MainActivity
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:18:9-26:20
-	android:exported
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:20:13-36
-	android:name
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:19:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:24:27-74
-activity#Slot3.Demo32MainActivity
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:21:27-74
+activity#Slot3.Demo34MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:25:13-52
+activity#Slot3.Demo33MainActivity
 ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:27:9-31:20
 	android:exported
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:28:13-52
-activity#Slot3.Demo31MainActivity
-ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:32:9-36:20
+activity#Slot3.Demo32MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:32:9-34:48
 	android:exported
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:34:13-36
 	android:name
 		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:33:13-52
+activity#Slot3.Demo31MainActivity
+ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:35:9-37:48
+	android:exported
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:36:13-52
 activity#Slot2.Slot25MainActivity
 ADDED from D:\PRM392\Slot1\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
