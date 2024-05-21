@@ -1,19 +1,7 @@
 [
     {
-        "merged": "com.example.slot1.app-debug-31:/drawable_border.9.png.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/border.9.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_demo33_main.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_demo33_main.xml"
-    },
-    {
-        "merged": "com.example.slot1.app-debug-31:/drawable_android.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/android.jpg"
-    },
-    {
-        "merged": "com.example.slot1.app-debug-31:/drawable_hancock.png.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/hancock.png"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
@@ -24,8 +12,8 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.slot1.app-debug-31:/drawable_firefox.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/firefox.jpg"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_demo41_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_demo41_main.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -44,8 +32,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_demo34_main.xml"
     },
     {
-        "merged": "com.example.slot1.app-debug-31:/drawable_apple.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/apple.jpg"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_demo41_item_view.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\demo41_item_view.xml"
+    },
+    {
+        "merged": "com.example.slot1.app-debug-31:/layout_activity_demo51_main.xml.flat",
+        "source": "com.example.slot1.app-main-33:/layout/activity_demo51_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_blogger.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\blogger.jpg"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -68,24 +64,24 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.slot1.app-debug-31:/drawable_blogger.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/blogger.jpg"
-    },
-    {
-        "merged": "com.example.slot1.app-debug-31:/drawable_hp.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/hp.jpg"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_dell.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\dell.jpg"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_slot24_main.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_slot24_main.xml"
     },
     {
-        "merged": "com.example.slot1.app-debug-31:/drawable_dell.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/dell.jpg"
-    },
-    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_hancock.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\hancock.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_android.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\android.jpg"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_demo31_main.xml.flat",
@@ -100,8 +96,28 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_apple.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\apple.jpg"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_facebook.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\facebook.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_chrome.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\chrome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_firefox.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\firefox.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_demo51_item_view.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\demo51_item_view.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -110,14 +126,6 @@
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_slot2_a2.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_slot2_a2.xml"
-    },
-    {
-        "merged": "com.example.slot1.app-debug-31:/drawable_facebook.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/facebook.jpg"
-    },
-    {
-        "merged": "com.example.slot1.app-debug-31:/drawable_chrome.jpg.flat",
-        "source": "com.example.slot1.app-main-33:/drawable/chrome.jpg"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -132,6 +140,18 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_demo51_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_demo51_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_border.9.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_hp.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\hp.jpg"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
@@ -140,15 +160,7 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.slot1.app-debug-31:/layout_demo41_item_view.xml.flat",
-        "source": "com.example.slot1.app-main-33:/layout/demo41_item_view.xml"
-    },
-    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-debug-31:\\layout_activity_slot23_main_acitivity.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.6\\com.example.slot1.app-main-33:\\layout\\activity_slot23_main_acitivity.xml"
-    },
-    {
-        "merged": "com.example.slot1.app-debug-31:/layout_activity_demo41_main.xml.flat",
-        "source": "com.example.slot1.app-main-33:/layout/activity_demo41_main.xml"
     }
 ]

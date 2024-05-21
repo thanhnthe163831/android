@@ -3265,6 +3265,11 @@ id demo41_itemview_hinh
 id demo41listview
 id demo4_itemview_ten
 id demo4_itemview_tuoi
+id demo51Listview1
+id demo51_itemview_img
+id demo51_itemview_tvID
+id demo51_itemview_tvName
+id demo51_itemview_tvPrice
 id dependency_ordering
 id design_bottom_sheet
 id design_menu_item_action_area
@@ -3749,6 +3754,7 @@ layout activity_demo32_main
 layout activity_demo33_main
 layout activity_demo34_main
 layout activity_demo41_main
+layout activity_demo51_main
 layout activity_main
 layout activity_slot2
 layout activity_slot23_main_acitivity
@@ -3757,6 +3763,7 @@ layout activity_slot25_main
 layout activity_slot2_a2
 layout custom_dialog
 layout demo41_item_view
+layout demo51_item_view
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

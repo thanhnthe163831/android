@@ -3264,6 +3264,11 @@ int id demo41_itemview_hinh 0x7f080208
 int id demo41listview 0x7f080209
 int id demo4_itemview_ten 0x7f08020a
 int id demo4_itemview_tuoi 0x7f08020b
+int id demo51Listview1 0x7f080210
+int id demo51_itemview_img 0x7f08020c
+int id demo51_itemview_tvID 0x7f08020d
+int id demo51_itemview_tvName 0x7f08020e
+int id demo51_itemview_tvPrice 0x7f08020f
 int id dependency_ordering 0x7f08008f
 int id design_bottom_sheet 0x7f080090
 int id design_menu_item_action_area 0x7f080091
@@ -3748,6 +3753,7 @@ int layout activity_demo32_main 0x7f0b0072
 int layout activity_demo33_main 0x7f0b0073
 int layout activity_demo34_main 0x7f0b0074
 int layout activity_demo41_main 0x7f0b0075
+int layout activity_demo51_main 0x7f0b0077
 int layout activity_main 0x7f0b001c
 int layout activity_slot2 0x7f0b006c
 int layout activity_slot23_main_acitivity 0x7f0b006d
@@ -3756,6 +3762,7 @@ int layout activity_slot25_main 0x7f0b0070
 int layout activity_slot2_a2 0x7f0b006e
 int layout custom_dialog 0x7f0b001d
 int layout demo41_item_view 0x7f0b0076
+int layout demo51_item_view 0x7f0b0078
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f
 int layout design_layout_snackbar 0x7f0b0020
