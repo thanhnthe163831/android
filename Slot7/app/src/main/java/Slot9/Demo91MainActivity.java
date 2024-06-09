@@ -30,12 +30,14 @@ public class Demo91MainActivity extends AppCompatActivity {
     private ListView listView;
     private demo91Adapter adapter;
     private List<Product91> list;
+    Demo10CartManager cartManager;//gio hang
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_demo91_main);
         listView=findViewById(R.id.demo91Listview);
+        cartManager=Demo10CartManager.getInstance();
         list=new ArrayList<>();
         adapter=new demo91Adapter(this, list);
         listView.setAdapter(adapter);

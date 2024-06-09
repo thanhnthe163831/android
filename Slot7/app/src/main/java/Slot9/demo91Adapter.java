@@ -1,6 +1,7 @@
 package Slot9;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -61,6 +62,17 @@ public class demo91Adapter extends BaseAdapter {
             holder.priceTv.setText(product.getPrice());
             holder.infoTv.setText(product.getInfo());
         }
+        //----event---
+        convertView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Product91 product = mList.get(position);
+                Intent intent = new Intent(mContext, Demo10MainActivity.class);
+                intent.putExtra("PRODUCT", product);
+                mContext.startActivity(intent);
+            }
+        });
+        //------------
         return convertView;
     }
 
