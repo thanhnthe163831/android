@@ -16,14 +16,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Slot7"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name="Slot8.Demo83MainActivity"
-            android:exported="false" />
-        <activity
-            android:name="Slot8.Demo82MainActivity"
-            android:exported="true"
-            android:theme="@style/MyTheme">
+            android:name="Slot9.Demo91MainActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,8 +28,17 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="Slot8.Demo83MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="Slot8.Demo82MainActivity"
+            android:exported="true"
+            android:theme="@style/MyTheme">
+
+        </activity>
+        <activity
             android:name="Slot8.Demo81MainActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name="Slot7.Demo71MainActivity"
             android:exported="true" />
