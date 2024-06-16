@@ -19,21 +19,7 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.099" />
-
-    <EditText
-        android:id="@+id/demo111Txt2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="Price"
-        android:inputType="text"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/demo111Txt1"
-        app:layout_constraintVertical_bias="0.055" />
+        app:layout_constraintVertical_bias="0.198" />
 
     <EditText
         android:id="@+id/demo111Txt3"
@@ -47,7 +33,21 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/demo111Txt2"
-        app:layout_constraintVertical_bias="0.058" />
+        app:layout_constraintVertical_bias="0.084" />
+
+    <EditText
+        android:id="@+id/demo111Txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Price"
+        android:inputType="text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/demo111Txt1"
+        app:layout_constraintVertical_bias="0.061" />
 
     <TextView
         android:id="@+id/demo111TvResult"
@@ -59,7 +59,31 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/demo111Txt3"
-        app:layout_constraintVertical_bias="0.109" />
+        app:layout_constraintVertical_bias="0.354" />
+
+    <Button
+        android:id="@+id/demo121BtnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.112"
+        app:layout_constraintStart_toEndOf="@+id/demo111BtnInsert"
+        app:layout_constraintTop_toBottomOf="@+id/demo111TvResult"
+        app:layout_constraintVertical_bias="0.847" />
+
+    <Button
+        android:id="@+id/demo121BtnUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.117"
+        app:layout_constraintStart_toEndOf="@+id/demo121BtnDelete"
+        app:layout_constraintTop_toBottomOf="@+id/demo111Txt3"
+        app:layout_constraintVertical_bias="0.911" />
 
     <Button
         android:id="@+id/demo111BtnInsert"
@@ -68,9 +92,35 @@
         android:text="Insert"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.078"
+        app:layout_constraintHorizontal_bias="0.037"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/demo111Txt3"
-        app:layout_constraintVertical_bias="0.252" />
+        app:layout_constraintVertical_bias="0.911" />
+
+    <Button
+        android:id="@+id/demo121BtnSelect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.615"
+        app:layout_constraintStart_toEndOf="@+id/demo121BtnUpdate"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.945" />
+
+    <EditText
+        android:id="@+id/demo111Txt0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Pid"
+        app:layout_constraintBottom_toTopOf="@+id/demo111Txt1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.5" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
