@@ -1,0 +1,15 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Slot16.Demo16BlankFragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:textSize="30dp"
+        android:textColor="#F80000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Fragment 2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
